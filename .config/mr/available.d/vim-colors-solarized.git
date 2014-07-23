@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-colors-solarized.git]
+checkout = mkdir -p ~/.vim/bundle/vim-colors-solarized; VCSH_BASE=~/.vim/bundle/vim-colors-solarized vcsh clone git://github.com/altercation/vim-colors-solarized.git vim-colors-solarized
+push     = echo "Push disabled"
+

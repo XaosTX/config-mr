@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-supertab.git]
+checkout = mkdir -p ~/.vim/bundle/supertab; VCSH_BASE=~/.vim/bundle/supertab vcsh clone git://github.com/vim-scripts/supertab.git vim-supertab
+push     = echo "Push disabled"
+

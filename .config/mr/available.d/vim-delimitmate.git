@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-delimitMate.git]
+checkout = mkdir -p ~/.vim/bundle/delimitmate; VCSH_BASE=~/.vim/bundle/delimitmate vcsh clone git://github.com/Raimondi/delimitMate.git vim-delimitMate
+push     = echo "Push disabled"
+

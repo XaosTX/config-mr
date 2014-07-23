@@ -1,0 +1,6 @@
+[.config/vcsh/repo.d/bin-scripts.git]
+checkout = vcsh clone "git@github.com:brking/bin-scripts.git" "bin-scripts"
+update   = vcsh bin-scripts pull
+push     = vcsh bin-scripts push
+status   = vcsh bin-scripts status
+gc       = vcsh bin-scripts gc

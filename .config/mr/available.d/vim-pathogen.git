@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-pathogen.git]
+checkout = mkdir -p ~/.vim; VCSH_BASE=~/.vim vcsh clone https://github.com/tpope/vim-pathogen.git vim-pathogen
+push     = echo "Push disabled"
+

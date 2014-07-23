@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/awesome-revelation.git]
+checkout = mkdir -p ~/.config/awesome/modules/revelation; VCSH_BASE=~/.config/awesome/modules/revelation vcsh clone https://github.com/guotsuan/awesome-revelation awesome-revelation
+push     = echo "Push disabled"
+

@@ -1,0 +1,6 @@
+[.config/vcsh/repo.d/config-Xresources.git]
+checkout = vcsh clone "git@github.com:brking/config-Xresources.git" "config-Xresources"
+update   = vcsh config-Xresources pull
+push     = vcsh config-Xresources push
+status   = vcsh config-Xresources status
+gc       = vcsh config-Xresources gc

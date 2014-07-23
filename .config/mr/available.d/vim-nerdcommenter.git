@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-nerdcommenter.git]
+checkout = mkdir -p ~/.vim/bundle/nerdcommenter; VCSH_BASE=~/.vim/bundle/nerdcommenter vcsh clone git://github.com/scrooloose/nerdcommenter.git vim-nerdcommenter
+push     = echo "Push disabled"
+

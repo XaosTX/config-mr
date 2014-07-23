@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/awesome-freedesktop.git]
+checkout = mkdir -p ~/.config/awesome/modules; VCSH_BASE=~/.config/awesome/modules vcsh clone git@github.com:terceiro/awesome-freedesktop.git awesome-freedesktop
+push     = echo "Push disabled"
+

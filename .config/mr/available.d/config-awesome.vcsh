@@ -1,0 +1,6 @@
+[.config/vcsh/repo.d/config-awesome.git]
+checkout = vcsh clone "git@github.com:brking/config-awesome.git" "config-awesome"
+update   = vcsh config-awesome pull
+push     = vcsh config-awesome push
+status   = vcsh config-awesome status
+gc       = vcsh config-awesome gc

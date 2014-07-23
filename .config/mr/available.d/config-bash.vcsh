@@ -1,0 +1,6 @@
+[.config/vcsh/repo.d/config-bash.git]
+checkout = vcsh clone "git@github.com:brking/config-bash.git" "config-bash"
+update   = vcsh config-bash pull
+push     = vcsh config-bash push
+status   = vcsh config-bash status
+gc       = vcsh config-bash gc
