@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-tagbar.git]
+checkout = mkdir -p ~/.vim/bundle/tagbar; VCSH_BASE=~/.vim/bundle/tagbar vcsh clone git://github.com/majutsushi/tagbar.git vim-tagbar
+push     = echo "Push disabled"
+
