@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-nerdtree.git]
+checkout = mkdir -p ~/.vim/bundle/nerdtree; VCSH_BASE=~/.vim/bundle/nerdtree vcsh clone git://github.com/scrooloose/nerdtree.git vim-nerdtree
+push     = echo "Push disabled"
+

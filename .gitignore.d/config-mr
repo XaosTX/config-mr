@@ -17,6 +17,7 @@
 !/.config/mr/available.d/vim-delimitmate.git
 !/.config/mr/available.d/vim-fugitive.git
 !/.config/mr/available.d/vim-nerdcommenter.git
+!/.config/mr/available.d/vim-nerdtree.git
 !/.config/mr/available.d/vim-pathogen.git
 !/.config/mr/available.d/vim-supertab.git
 !/.config/mr/available.d/vim-tagbar.git
@@ -36,6 +37,7 @@
 !/.config/mr/config.d/vim-delimitmate.git
 !/.config/mr/config.d/vim-fugitive.git
 !/.config/mr/config.d/vim-nerdcommenter.git
+!/.config/mr/config.d/vim-nerdtree.git
 !/.config/mr/config.d/vim-pathogen.git
 !/.config/mr/config.d/vim-supertab.git
 !/.config/mr/config.d/vim-tagbar.git
