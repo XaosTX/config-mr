@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/vim-command-t.git]
+checkout = mkdir -p ~/.vim/bundle/command-t; VCSH_BASE=~/.vim/bundle/command-t vcsh clone git://git.wincent.com/command-t.git vim-command-t
+push     = echo "Push disabled"
+
