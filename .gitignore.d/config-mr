@@ -12,6 +12,7 @@
 !/.config/mr/available.d/config-tmux.vcsh
 !/.config/mr/available.d/config-vim.vcsh
 !/.config/mr/available.d/config-Xresources.vcsh
+!/.config/mr/available.d/tmux-colors-solarized.git
 !/.config/mr/available.d/vim-colors-solarized.git
 !/.config/mr/available.d/vim-command-t.git
 !/.config/mr/available.d/vim-delimitmate.git

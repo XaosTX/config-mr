@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/tmux-colors-solarized.git]
+checkout = mkdir -p ~/.tmux/tmux-colors-solarized; VCSH_BASE=~/.tmux/tmux-colors-solarized vcsh clone https://github.com/seebi/tmux-colors-solarized.git tmux-colors-solarized
+push     = echo "Push disabled"
+
